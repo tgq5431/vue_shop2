@@ -4,6 +4,11 @@
       <div class="avatar_box">
         <img src="../assets/logo.png" alt="logo">
       </div>
+      <el-form label-width="80px">
+        <el-form-item label="活动名称">
+          <el-input></el-input>
+        </el-form-item>
+      </el-form>
     </div>
   </div>
 </template>
